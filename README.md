@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RachelKi2003
+- 👋 Hi, I’m @MichaelLaw2003
 - 👀 I’m interested in ios front-end development
 - 🌱 I’m currently learning general biology
 - 💞️ I’m looking to collaborate on Geneti information visualization
